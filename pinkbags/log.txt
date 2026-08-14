@@ -1,0 +1,75 @@
+<!-- <configuration>
+    <property name="LOG_PATH" value="logs" />
+
+    <!-- Console appender -->
+    <appender name="Console" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Producer file appender -->
+    <appender name="ProducerFile" class="ch.qos.logback.core.FileAppender">
+        <file>${LOG_PATH}/producer.log</file>
+        <append>true</append>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Consumer file appender -->
+    <appender name="ConsumerFile" class="ch.qos.logback.core.FileAppender">
+        <file>${LOG_PATH}/consumer.log</file>
+        <append>true</append>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Notification file appender -->
+    <appender name="NotificationFile" class="ch.qos.logback.core.FileAppender">
+        <file>${LOG_PATH}/notification.log</file>
+        <append>true</append>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Analytics file appender -->
+    <appender name="AnalyticsFile" class="ch.qos.logback.core.FileAppender">
+        <file>${LOG_PATH}/analytics.log</file>
+        <append>true</append>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Logger for Producer -->
+    <logger name="com.ecommerce.pinkbags.kafka.OrderProducer" level="INFO" additivity="false">
+        <appender-ref ref="ProducerFile"/>
+        <appender-ref ref="Console"/>
+    </logger>
+
+    <!-- Logger for Inventory Consumer -->
+    <logger name="com.ecommerce.pinkbags.kafka.InventoryConsumer" level="INFO" additivity="false">
+        <appender-ref ref="ConsumerFile"/>
+        <appender-ref ref="Console"/>
+    </logger>
+
+    <!-- Logger for Notification Consumer -->
+    <logger name="com.ecommerce.pinkbags.kafka.NotificationConsumer" level="INFO" additivity="false">
+        <appender-ref ref="NotificationFile"/>
+        <appender-ref ref="Console"/>
+    </logger>
+
+    <!-- Logger for Analytics Consumer -->
+    <logger name="com.ecommerce.pinkbags.kafka.AnalyticsConsumer" level="INFO" additivity="false">
+        <appender-ref ref="AnalyticsFile"/>
+        <appender-ref ref="Console"/>
+    </logger>
+
+    <!-- Root logger -->
+    <root level="INFO">
+        <appender-ref ref="Console"/>
+    </root>
+</configuration> -->

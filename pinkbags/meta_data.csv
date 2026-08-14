@@ -1,0 +1,42 @@
+table_name,column_name,data_type,character_maximum_length,numeric_precision,is_nullable,column_default,primary_key,unique_column,references_table,references_column
+categories,id,bigint,NULL,64,NO,NULL,YES,NO,NULL,NULL
+,description,text,NULL,NULL,YES,NULL,NO,NO,NULL,NULL
+,name,character varying,200,NULL,YES,NULL,NO,NO,NULL,NULL
+customers,id,bigint,NULL,64,NO,NULL,YES,NO,NULL,NULL
+,email,character varying,200,NULL,YES,NULL,NO,YES,NULL,NULL
+,name,character varying,200,NULL,YES,NULL,NO,NO,NULL,NULL
+,user_id,bigint,NULL,64,YES,NULL,NO,YES,users,id
+,user_id,bigint,NULL,64,YES,NULL,NO,YES,users,id
+order_items,id,bigint,NULL,64,NO,NULL,YES,NO,NULL,NULL
+,date_added,timestamp without time zone,NULL,NULL,YES,NULL,NO,NO,NULL,NULL
+,quantity,integer,NULL,32,NO,NULL,NO,NO,NULL,NULL
+,order_id,bigint,NULL,64,YES,NULL,NO,NO,orders,id
+,product_id,bigint,NULL,64,YES,NULL,NO,NO,products,id
+orders,id,bigint,NULL,64,NO,NULL,YES,NO,NULL,NULL
+,complete,boolean,NULL,NULL,NO,NULL,NO,YES,NULL,NULL
+,date_ordered,timestamp without time zone,NULL,NULL,YES,NULL,NO,NO,NULL,NULL
+,transaction_id,character varying,100,NULL,YES,NULL,NO,NO,NULL,NULL
+,customer_id,bigint,NULL,64,YES,NULL,NO,YES,customers,id
+,status,character varying,255,NULL,YES,NULL,NO,NO,NULL,NULL
+products,id,bigint,NULL,64,NO,NULL,YES,NO,NULL,NULL
+,created_at,timestamp without time zone,NULL,NULL,YES,NULL,NO,NO,NULL,NULL
+,description,text,NULL,NULL,YES,NULL,NO,NO,NULL,NULL
+,discount,integer,NULL,32,YES,NULL,NO,NO,NULL,NULL
+,image,character varying,255,NULL,YES,NULL,NO,NO,NULL,NULL
+,name,character varying,200,NULL,YES,NULL,NO,NO,NULL,NULL
+,price,numeric,NULL,38,YES,NULL,NO,NO,NULL,NULL
+,stock,integer,NULL,32,NO,NULL,NO,NO,NULL,NULL
+,category_id,bigint,NULL,64,YES,NULL,NO,NO,categories,id
+shipping_addresses,id,bigint,NULL,64,NO,NULL,YES,NO,NULL,NULL
+,address,character varying,255,NULL,NO,NULL,NO,NO,NULL,NULL
+,city,character varying,255,NULL,NO,NULL,NO,NO,NULL,NULL
+,date_added,timestamp without time zone,NULL,NULL,YES,NULL,NO,NO,NULL,NULL
+,state,character varying,255,NULL,NO,NULL,NO,NO,NULL,NULL
+,zipcode,character varying,20,NULL,NO,NULL,NO,NO,NULL,NULL
+,customer_id,bigint,NULL,64,YES,NULL,NO,NO,customers,id
+,order_id,bigint,NULL,64,YES,NULL,NO,NO,orders,id
+users,id,bigint,NULL,64,NO,NULL,YES,NO,NULL,NULL
+,email,character varying,255,NULL,NO,NULL,NO,YES,NULL,NULL
+,password,character varying,255,NULL,NO,NULL,NO,NO,NULL,NULL
+,role,character varying,255,NULL,YES,NULL,NO,NO,NULL,NULL
+,username,character varying,255,NULL,NO,NULL,NO,YES,NULL,NULL

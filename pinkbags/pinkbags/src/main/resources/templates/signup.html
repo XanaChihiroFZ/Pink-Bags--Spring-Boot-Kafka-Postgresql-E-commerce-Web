@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" 
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity6"
+      layout:decorate="~{main}">
+  
+  <head>
+    <title>Sign Up</title>
+  </head>
+  <body>
+     <main layout:fragment="content">
+
+    <!-- Signup Form -->
+    <div class="container">
+        <div class="login-form">
+            <form th:action="@{/signup}" method="post">
+                <h1>Sign up</h1>
+
+                <label for="email">Email</label>
+                <input type="email" placeholder="Enter Email" name="email" required />
+
+                <label for="psw">Password</label>
+                <input type="password" placeholder="Enter Password" name="psw" required />
+
+                <label for="psw-repeat">Repeat Password</label>
+                <input type="password" placeholder="Repeat Password" name="psw-repeat" required />
+
+                <!-- If Spring Security is enabled, include CSRF -->
+                <input type="hidden" th:if="${_csrf != null}"
+                        th:name="${_csrf.parameterName}" th:value="${_csrf.token}" />
+
+                <div class="buttons">
+                    <button type="reset" class="cancelbtn">Clear</button>
+                    <button type="submit" class="signupbtn">Create Account</button>
+                    </div>
+                    <p>
+                    Already have an account?
+                    <a th:href="@{/login}">Log in</a>
+                    </p>
+                    </form>
+                    
+
+        </div>
+    </div>
+
+    </main>
+</body>
+</html>

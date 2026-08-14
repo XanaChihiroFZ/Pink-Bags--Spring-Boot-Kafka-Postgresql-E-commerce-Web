@@ -1,0 +1,128 @@
+2025-09-07 11:42:09 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 237 already has an incomplete order. Skipping.
+2025-09-07 11:42:14 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 324
+2025-09-07 11:42:14 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 417da289-c437-451b-8650-92d7fc925a58 with 10 items for customer 324
+2025-09-07 11:42:19 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 325
+2025-09-07 11:42:19 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 7c230576-cfa3-437f-be4c-aff925584234 with 10 items for customer 325
+2025-09-07 11:42:24 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 326
+2025-09-07 11:42:24 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order e162a9b6-ee34-40fb-a41a-366c34e3a3e7 with 10 items for customer 326
+2025-09-07 11:42:29 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 327
+2025-09-07 11:42:29 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order a8a1584b-f4e4-48ba-b9cf-70be0685b16c with 5 items for customer 327
+2025-09-07 11:42:34 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 328
+2025-09-07 11:42:34 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order eec4ffdb-c98c-407e-abbf-ff596192045c with 13 items for customer 328
+2025-09-07 11:42:39 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 329
+2025-09-07 11:42:39 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 9bfe04a5-ce95-4dc6-a243-b42e33dc2c78 with 13 items for customer 329
+2025-09-07 11:42:44 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 180 already has an incomplete order. Skipping.
+2025-09-07 11:42:49 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 285 already has an incomplete order. Skipping.
+2025-09-07 11:42:54 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 11efd07a-2688-4fc2-a2f4-ba3335256803 with 8 items for customer 153
+2025-09-07 11:42:59 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 268 already has an incomplete order. Skipping.
+2025-09-07 11:43:09 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 298 already has an incomplete order. Skipping.
+2025-09-07 11:43:14 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 331
+2025-09-07 11:43:14 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order e9f5da90-cbe8-435e-be33-39fb31c14357 with 5 items for customer 331
+2025-09-07 11:43:19 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 306 already has an incomplete order. Skipping.
+2025-09-07 11:43:24 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 332
+2025-09-07 11:43:24 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 7cf456ed-85bc-4533-8239-e34a75ba0738 with 2 items for customer 332
+2025-09-07 11:43:34 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 335
+2025-09-07 11:43:34 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order cb2fdec7-b027-4f5d-9ac3-4e9db8de64a4 with 5 items for customer 335
+2025-09-07 11:43:39 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 336
+2025-09-07 11:43:39 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 7c7f2a55-7fff-41a9-a4c5-adfb845b8cdc with 10 items for customer 336
+2025-09-07 11:43:44 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 212 already has an incomplete order. Skipping.
+2025-09-07 11:43:49 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 337
+2025-09-07 11:43:49 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 1b67b17a-767a-45ec-9725-0b5580aac46b with 3 items for customer 337
+2025-09-07 11:43:54 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 170 already has an incomplete order. Skipping.
+2025-09-07 11:43:59 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 338
+2025-09-07 11:43:59 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order aaf63a30-de8d-4a6c-948c-842068818be2 with 2 items for customer 338
+2025-09-07 11:44:04 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 270 already has an incomplete order. Skipping.
+2025-09-07 11:44:09 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 339
+2025-09-07 11:44:09 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 6c81de32-0a24-4f03-a89c-93011ac2ea54 with 11 items for customer 339
+2025-09-07 11:44:14 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 340
+2025-09-07 11:44:14 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 0f7c5229-7be1-4599-aaa3-0b094276cd2a with 4 items for customer 340
+2025-09-07 11:44:24 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 838b5fba-3eb2-40e6-b567-4a8d73837ff5 with 13 items for customer 143
+2025-09-07 11:44:29 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 342
+2025-09-07 11:44:29 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 305bfe6f-dc0b-4992-9b84-ac574ecff15c with 3 items for customer 342
+2025-09-07 11:44:39 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 207 already has an incomplete order. Skipping.
+2025-09-07 11:44:44 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 344
+2025-09-07 11:44:44 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 67adec05-d04e-4754-89cd-b811fb1b33f0 with 9 items for customer 344
+2025-09-07 11:44:54 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 346
+2025-09-07 11:44:54 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order f458192c-fab9-40af-9085-0e8d6f1c8d60 with 2 items for customer 346
+2025-09-07 11:45:49 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 347
+2025-09-07 11:45:50 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order ac6f4a21-6bc6-43c5-81aa-150ebac05b34 with 9 items for customer 347
+2025-09-07 11:45:54 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 348
+2025-09-07 11:45:54 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 9c092bff-7f7e-4a4b-a424-c4d561c59b09 with 13 items for customer 348
+2025-09-07 11:45:59 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 226 already has an incomplete order. Skipping.
+2025-09-07 11:46:04 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 290 already has an incomplete order. Skipping.
+2025-09-07 11:46:09 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 342 already has an incomplete order. Skipping.
+2025-09-07 11:46:14 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 214 already has an incomplete order. Skipping.
+2025-09-07 11:46:19 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 251 already has an incomplete order. Skipping.
+2025-09-07 11:46:24 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 350
+2025-09-07 11:46:24 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 38aea920-3b69-41c8-9ec6-94195a2261e3 with 7 items for customer 350
+2025-09-07 11:46:29 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 351
+2025-09-07 11:46:29 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 929c499f-57f4-419e-a778-4d802f448461 with 9 items for customer 351
+2025-09-07 11:46:34 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 146 already has an incomplete order. Skipping.
+2025-09-07 11:46:39 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 352
+2025-09-07 11:46:39 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order ef1e70f6-5d59-4283-a28a-95cb4a58e80c with 3 items for customer 352
+2025-09-07 11:46:44 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 285 already has an incomplete order. Skipping.
+2025-09-07 11:46:49 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 353
+2025-09-07 11:46:49 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 2e28510a-8347-44ab-a7d0-c464834b27f1 with 5 items for customer 353
+2025-09-07 11:46:54 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 284 already has an incomplete order. Skipping.
+2025-09-07 11:46:59 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 258 already has an incomplete order. Skipping.
+2025-09-07 11:47:04 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 296 already has an incomplete order. Skipping.
+2025-09-07 11:47:09 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 347 already has an incomplete order. Skipping.
+2025-09-07 11:55:56 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 354
+2025-09-07 11:55:56 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 3044c5bb-8575-487a-865d-cff8640ac263 with 7 items for customer 354
+2025-09-07 11:56:00 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 355
+2025-09-07 11:56:00 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 9442ee6d-da61-4879-b473-1c52f89edc84 with 6 items for customer 355
+2025-09-07 11:56:05 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 356
+2025-09-07 11:56:05 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 27a9b5d5-244d-45e1-bd89-488d2e7f97eb with 6 items for customer 356
+2025-09-07 11:56:10 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 357
+2025-09-07 11:56:10 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order e169927c-0fd0-4a77-b40e-bbe350d26538 with 3 items for customer 357
+2025-09-07 11:56:15 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 356 already has an incomplete order. Skipping.
+2025-09-07 11:56:20 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 358
+2025-09-07 11:56:20 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 7d1d1d20-340d-4e2e-b5d6-5b26301c7e2a with 12 items for customer 358
+2025-09-07 11:56:25 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 359
+2025-09-07 11:56:25 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 6f749d0d-ce66-4ea4-ada5-1371ac59abe6 with 10 items for customer 359
+2025-09-07 11:56:30 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 360
+2025-09-07 11:56:30 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 79b24c62-0599-4a9b-941d-81d1a470eda9 with 9 items for customer 360
+2025-09-07 11:56:35 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 357 already has an incomplete order. Skipping.
+2025-09-07 11:56:40 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 361
+2025-09-07 11:56:40 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 825dcd94-effc-44a2-bc6a-23003d57401d with 12 items for customer 361
+2025-09-07 11:56:45 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 362
+2025-09-07 11:56:45 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 661ec269-607c-444c-921d-60f220ada9e4 with 11 items for customer 362
+2025-09-07 11:56:50 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 363
+2025-09-07 11:56:50 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 4e79af30-88b8-41f1-92d7-f01010f0c958 with 1 items for customer 363
+2025-09-07 12:06:53 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 364
+2025-09-07 12:06:53 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 02f73168-a72b-4cf4-b95f-e0795423589e with 7 items for customer 364
+2025-09-07 12:06:57 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 365
+2025-09-07 12:06:57 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 6310622f-950c-440f-b98c-c8ed588bdac8 with 2 items for customer 365
+2025-09-07 12:07:02 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 366
+2025-09-07 12:07:02 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 24ce30b1-cd7a-41d2-a6bc-4e128ca9904f with 5 items for customer 366
+2025-09-07 12:07:07 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 367
+2025-09-07 12:07:07 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 23861381-7fcf-4c6f-9e77-b832f6863fb6 with 15 items for customer 367
+2025-09-07 12:07:17 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 369
+2025-09-07 12:07:17 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order e2335fd8-bf6e-48ab-98e9-093127e86317 with 18 items for customer 369
+2025-09-07 12:07:22 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 370
+2025-09-07 12:07:22 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 85030f8a-cfe2-475f-b154-cc56ee18efe6 with 20 items for customer 370
+2025-09-07 12:07:27 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 371
+2025-09-07 12:07:27 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order fa814f3f-bb1e-41be-82e5-d1341aa1703f with 11 items for customer 371
+2025-09-07 12:08:35 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 367 already has an incomplete order. Skipping.
+2025-09-07 12:08:39 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 357 already has an incomplete order. Skipping.
+2025-09-07 12:11:28 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 355 already has an incomplete order. Skipping.
+2025-09-07 12:11:32 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 372
+2025-09-07 12:11:33 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 726080fb-276a-4fd5-88c0-39041989208c with 16 items for customer 372
+2025-09-07 12:11:37 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 357 already has an incomplete order. Skipping.
+2025-09-07 12:11:42 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 363 already has an incomplete order. Skipping.
+2025-09-07 12:11:47 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 373
+2025-09-07 12:11:48 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 29ae95c5-f788-44af-924f-786a431e0638 with 14 items for customer 373
+2025-09-07 12:11:52 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 363 already has an incomplete order. Skipping.
+2025-09-07 12:11:57 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 374
+2025-09-07 12:11:57 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 714445fb-843b-4ed0-a10a-da86a9c8e385 with 5 items for customer 374
+2025-09-07 12:12:02 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 356 already has an incomplete order. Skipping.
+2025-09-07 12:12:07 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 375
+2025-09-07 12:12:07 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 714ce0ae-eb3c-4c54-bc6d-08ff600af73d with 5 items for customer 375
+2025-09-07 12:12:12 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 376
+2025-09-07 12:12:12 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order e099b117-1e3b-467e-a02b-85a9765cc905 with 4 items for customer 376
+2025-09-07 12:12:17 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 364 already has an incomplete order. Skipping.
+2025-09-07 12:12:22 INFO  c.e.pinkbags.kafka.OrderProducer - ?? Customer 366 already has an incomplete order. Skipping.
+2025-09-07 12:12:27 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 377
+2025-09-07 12:12:27 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 21098020-bc0d-4d06-a31b-5bf8640a05ed with 7 items for customer 377
+2025-09-07 12:12:32 INFO  c.e.pinkbags.kafka.OrderProducer - ? Created new customer: 378
+2025-09-07 12:12:32 INFO  c.e.pinkbags.kafka.OrderProducer - ? Produced order 0c0ba1fa-264a-4021-b25f-e9bafe69c5c1 with 4 items for customer 378
